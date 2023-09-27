@@ -12,7 +12,10 @@
   "dependencies": {
     "@apollo/client": "^3.7.12",
     "@apollo/server": "^4.6.0",
+    "dotenv": "^16.3.1",
     "graphql": "^16.6.0",
+    "mongoose": "^7.5.2",
+    "mongoose-unique-validator": "^4.0.0",
     "nodemon": "^2.0.20"
   }
 }
